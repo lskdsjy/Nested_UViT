@@ -33,7 +33,7 @@ We introduce **MedNet**, a comprehensive medical image dataset, and propose a no
 ---
 ## 🚀 Training U2-ViT on MedNet
 
-To train the **U2-ViT** model on the **MedNet** dataset using mixed precision and multi-GPU setup, use the following command:
+To train the **U2-ViT** model on the **MedNet** dataset, use the following command:
 
 ```bash
 accelerate launch \
