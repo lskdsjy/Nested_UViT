@@ -1,1 +1,1 @@
-## Nested U-ViT: A Text-to-Image Generation model for Medical Images
+## MedNet for Medical Images Generation with U2-ViT
