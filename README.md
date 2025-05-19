@@ -8,30 +8,30 @@ We introduce **MedNet**, a comprehensive medical image dataset, and propose a no
 
 ---
 
-## 🧬 MedNet Dataset Construction Pipeline
+## MedNet Dataset Construction Pipeline
 
 <img src="mednet_pipeline.png" alt="MedNet Pipeline" width="800"/>
 
 ---
 
-## 🧠 Medical Image Generation with U2-ViT
+## Medical Image Generation with U2-ViT
 
 <img src="model.png" alt="U2-ViT Trained on MedNet" width="800"/>
 
 ---
 
-## 🖼️ Generated Images (256×256) by U2-ViT Trained on MedNet
+## Generated Images (256×256) by U2-ViT Trained on MedNet
 
 <img src="u2vit.png" alt="U2-ViT Generated Images" width="800"/>
 
 ---
 
-## 📊 Comparison with SOTA Text-to-Image Models
+## Comparison with SOTA Text-to-Image Models
 
 <img src="comparison.png" alt="SOTA Comparison" width="800"/>
 
 ---
-## 🚀 Training U2-ViT on MedNet
+## Training U2-ViT on MedNet
 
 To train the **U2-ViT** model on the **MedNet** dataset, use the following command:
 
