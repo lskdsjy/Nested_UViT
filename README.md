@@ -9,14 +9,14 @@ We introduce **MedNet**, a comprehensive medical image dataset, and propose a no
 ---
 
 ## MedNet Dataset Construction Pipeline
-
 <img src="mednet_pipeline.png" alt="MedNet Pipeline" width="800"/>
+
 
 ---
 
 ## Medical Image Generation with U2-ViT
-
 <img src="model.png" alt="U2-ViT Trained on MedNet" width="800"/>
+
 
 ---
 
